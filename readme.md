@@ -1,4 +1,4 @@
-# Hello my friends.
+# CHAT JAVA RMI
 
 
 #### today I would like to show my program, which was programmed by the java language by using the technique RMI (Remote Method Invocation)
